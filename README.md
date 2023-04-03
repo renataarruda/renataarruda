@@ -27,6 +27,8 @@
 <a href="https://github.com/renataarruda">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataarruda&layout=compact&langs_count=7"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=renataarruda&show_icons=true&include_all_commits=true&count_private=true"/></div>
 
+![Snake animation](https://github.com/renataarruda/renataarruda/blob/output/github-contribution-grid-snake.svg)
+
           
           
           
