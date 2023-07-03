@@ -4,7 +4,7 @@
 
 </div><h1>Olá, pessoa! &#9996;&#127997;</h1>
 
-<p>Eu sou a Renata, tenho 38 anos e iniciei recentemente uma transição de carreira da área de comunicação para a da tecnologia. Estudo Sistemas de Informção e tive a oportunidade de estagiar nas áreas de front-end e mobile, mas tenho o objetivo de me tornar fullstack. Um dia, espero também ser mentora de pessoas iniciantes, principalmente mulheres. :purple_heart:</p>
+<p>Eu sou a Renata e recentemente iniciei uma transição de carreira da área de comunicação para a da tecnologia. Estudo Sistemas de Informção e tive a oportunidade de estagiar nas áreas de front-end e mobile, mas tenho o objetivo de me tornar fullstack. Um dia, espero também ser mentora de pessoas iniciantes, principalmente mulheres. :purple_heart:</p>
 
 ## :computer: Ferramentas e tecnologias
 
