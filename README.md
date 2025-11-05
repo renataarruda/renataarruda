@@ -8,12 +8,13 @@ Sou estudante de **Sistemas de Informação** e tenho experiência como estagiá
 
 Além disso, sou **redatora em transição de carreira**, interessada em transformar ideias em interfaces e conteúdos que façam sentido para as pessoas. 
 
-Hoje, meu foco está em **Front-end com React** e em aprender cada vez mais sobre **UX/UI Design**, unindo código e experiência do usuário.
+Hoje, meu foco está em **Front-end** e em aprender cada vez mais sobre **UX/UI Design**, unindo código e experiência do usuário.
 
 Aqui no GitHub você vai encontrar meus projetos de estudo, protótipos e experimentos que refletem essa jornada de aprendizado.
 
 ## 🌱 O que estou aprendendo
-- React 19 + Next.js 15 (em breve)  
+- Angular 19
+- React 19
 - UX Design (Google UX Design Certificate)  
 - Lógica de programação e boas práticas de código
 
