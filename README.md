@@ -10,13 +10,10 @@ Além disso, sou **redatora em transição de carreira**, interessada em transfo
 
 Embora meu foco esteja em **Front-end**, e em aprender cada vez mais sobre **UX/UI Design**, permaneço estudando para fortalecer minha base em arquitetura, lógica e backend para atuar também como full stack quando necessário.
 
-Aqui no GitHub você vai encontrar meus projetos de estudo, protótipos e experimentos que refletem essa jornada de aprendizado.
-
 ## 🌱 O que estou aprendendo
-- Angular 19
-- React 19
+- Tecnologias Front-End (Angular, React, Typescript)
 - UX Design (Google UX Design Certificate)
-- AWS
+- Java e AWS
 - Lógica de programação e boas práticas de código
 
 ## 🛠️ Tecnologias com as quais já trabalhei
@@ -34,9 +31,8 @@ Aqui no GitHub você vai encontrar meus projetos de estudo, protótipos e experi
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renataarruda&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataarruda&layout=compact&theme=dracula"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=renataarruda&theme=dracula&border_radius=5"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renataarruda&theme=dracula" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renataarruda&theme=dracula" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=renataarruda&theme=dracula" height="180em"/>
 </p>
-
 
