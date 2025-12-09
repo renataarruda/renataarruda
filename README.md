@@ -8,12 +8,11 @@ Sou estudante de **Sistemas de Informação** e tenho experiência como estagiá
 
 Além disso, sou **redatora em transição de carreira**, interessada em transformar ideias em interfaces e conteúdos que façam sentido para as pessoas. 
 
-Embora meu foco esteja em **Front-end**, e em aprender cada vez mais sobre **UX/UI Design**, permaneço estudando para fortalecer minha base em arquitetura, lógica e backend para atuar também como full stack quando necessário.
+Embora meu foco esteja em **Front-end**, e em aprender cada vez mais sobre **UX/UI Design**, permaneço estudando para fortalecer minha base em backend para atuar também como full stack quando necessário.
 
 ## 🌱 O que estou aprendendo
 - Tecnologias Front-End (Angular, React, Typescript)
 - UX Design (Google UX Design Certificate)
-- Java e AWS
 - Lógica de programação e boas práticas de código
 
 ## 🛠️ Tecnologias com as quais já trabalhei
